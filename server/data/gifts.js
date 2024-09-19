@@ -1,0 +1,32 @@
+export const giftData = [
+  {
+    id: 1,
+    name: "Wireless Headphones",
+    pricePoint: 99.99,
+    audience: "Tech Enthusiasts",
+    image: "https://example.com/images/wireless-headphones.jpg",
+    description: "High-quality wireless headphones with noise cancellation.",
+    submittedBy: "John Doe",
+    submittedOn: "2023-10-01",
+  },
+  {
+    id: 2,
+    name: "Gourmet Chocolate Box",
+    pricePoint: 49.99,
+    audience: "Food Lovers",
+    image: "https://example.com/images/gourmet-chocolate-box.jpg",
+    description: "A box of assorted gourmet chocolates.",
+    submittedBy: "Jane Smith",
+    submittedOn: "2023-10-02",
+  },
+  {
+    id: 3,
+    name: "Yoga Mat",
+    pricePoint: 29.99,
+    audience: "Fitness Enthusiasts",
+    image: "https://example.com/images/yoga-mat.jpg",
+    description: "Eco-friendly yoga mat with non-slip surface.",
+    submittedBy: "Alice Johnson",
+    submittedOn: "2023-10-03",
+  },
+];
